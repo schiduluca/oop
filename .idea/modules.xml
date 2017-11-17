@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sckeedoo.iml" filepath="$PROJECT_DIR$/.idea/modules/sckeedoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sckeedoo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sckeedoo_main.iml" group="sckeedoo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sckeedoo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sckeedoo_test.iml" group="sckeedoo" />
+    </modules>
+  </component>
+</project>
